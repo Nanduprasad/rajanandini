@@ -1,7 +1,7 @@
-n=3
+n=75
 if(n>0):
-  print("positive")
+  print("num is positive")
 elif(n<0):
-  print("negative")
+  print("num is negative")
 else:
   print("zero")
